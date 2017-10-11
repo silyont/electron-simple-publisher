@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/megahertz/electron-simple-publisher.git"
+    "url": "git+https://github.com/silyont/electron-simple-publisher.git"
   },
   "files": [
     "index.js",
@@ -36,9 +36,9 @@
   "author": "Alexey Prokhorov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/megahertz/electron-simple-publisher/issues"
+    "url": "https://github.com/silyont/electron-simple-publisher/issues"
   },
-  "homepage": "https://github.com/megahertz/electron-simple-publisher#readme",
+  "homepage": "https://github.com/silyont/electron-simple-publisher#readme",
   "bin": {
     "publish": "./index.js"
   },
